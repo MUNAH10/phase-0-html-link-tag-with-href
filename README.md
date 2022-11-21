@@ -27,7 +27,7 @@ Check your progress by running `learn test`. Failing tests will provide helpful
 error messages that you can use to debug your code — read them closely for
 hints!
 
-Don't forget to open the `index.html` file in your browser so you can see the
+Don't forget to open the `index.html` file npm in your browser so you can see the
 changes as you go.
 
 ## Conclusion
